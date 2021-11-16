@@ -1,0 +1,7 @@
+discord.py
+python-decouple
+PrettyHelp
+DiscordUtils
+PyNaCl
+FFmpeg
+youtube_dl
